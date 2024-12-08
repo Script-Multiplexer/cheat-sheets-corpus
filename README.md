@@ -1,3 +1,19 @@
+# Cheat sheet corpus
+
+A compilation of cheat sheets found throughout the internet.
+
+[The website for this repository.](https://script-multiplexer.github.io/cheat-sheets-corpus/)
+
+The intention is to "map" or reference and centralize it in a common place/site where anyone can find useful technical cheat sheets related to cloud providers, operating systems distributions and software usage, installation and configuration. Also, it is important to provide e website (a front page) to simplify bookmarking of finding it in the web.
+
+# Contributors
+
+Original creator of repository and curator: Andreas R. Spyridakis <andreas.r.s@mail.com>
+
+# Additional information
+
+This section will be filled as needed.
+
 # just-the-docs-template
 
 This is a *bare-minimum* template to create a [Jekyll] site that:
