@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Cheat sheets corpus
+description: A compilation of cheat sheets found throughout the internet.
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://script-multiplexer.github.io/cheat-sheets-corpus/
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
