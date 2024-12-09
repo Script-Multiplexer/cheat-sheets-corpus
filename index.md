@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: home
+nav_order: 1
 ---
 
 # Cheat sheets
@@ -33,7 +34,8 @@ If you want to maintain your docs in the `docs` directory of an existing project
 
 [^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
 
-[]: 
+[Tmux cheat sheet]: https://tmuxcheatsheet.com/
+[Google Cloud CLI cheat sheet]: https://cloud.google.com/sdk/docs/cheatsheet
 
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
 [GitHub Pages]: https://docs.github.com/en/pages

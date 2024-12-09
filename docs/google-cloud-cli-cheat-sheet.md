@@ -8,7 +8,7 @@ nav_order: 2
 
 [Source][Google Cloud CLI cheat sheet source]
 
-[Google Cloud CLI cheat sheet PDF file](../assets/documents/gcloud-cheat-sheet.pdf)
+![Google Cloud CLI cheat sheet PDF file](../assets/documents/gcloud-cheat-sheet.png)
 
 # Most used commands
 
